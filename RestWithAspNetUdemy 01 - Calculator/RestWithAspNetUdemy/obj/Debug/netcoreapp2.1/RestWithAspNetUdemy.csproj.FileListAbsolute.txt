@@ -1,0 +1,15 @@
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.1\RestWithAspNetUdemy.deps.json
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.1\RestWithAspNetUdemy.runtimeconfig.json
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.1\RestWithAspNetUdemy.runtimeconfig.dev.json
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.1\RestWithAspNetUdemy.dll
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.1\RestWithAspNetUdemy.pdb
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.1\RestWithAspNetUdemy.csprojAssemblyReference.cache
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.1\RestWithAspNetUdemy.csproj.CoreCompileInputs.cache
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.1\RestWithAspNetUdemy.RazorAssemblyInfo.cache
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.1\RestWithAspNetUdemy.RazorAssemblyInfo.cs
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.1\RestWithAspNetUdemy.AssemblyInfoInputs.cache
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.1\RestWithAspNetUdemy.AssemblyInfo.cs
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.1\RestWithAspNetUdemy.RazorTargetAssemblyInfo.cache
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.1\RestWithAspNetUdemy.dll
+D:\Joao\Cursos Online\Rest Api com ASP NET\RestWithAsp-NetUdemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.1\RestWithAspNetUdemy.pdb
